@@ -4,7 +4,7 @@
 On the client side there's a README to run the react code
 
 # backend
-On the frontend run:
+On the backend run:
 ### `npm start`
 
 1. If I had more time/resources:
